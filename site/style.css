@@ -1,0 +1,18 @@
+body { background-color: black;
+text-align: center;
+color: white;
+font-family: serif;
+margin: 20px 50px 20px 50px;}
+
+footer { text-align: right;
+    line-height: 4px;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    position: relative;
+}
+
+header {text-align: center;}
+#foot {margin: 20px 20px 20px 20px;
+        }
+#text {text-align: left;}
